@@ -3,9 +3,11 @@
 
 # Linklerin eklenmesi gerekiyor.
 ## Day 1:
-	- [Introduction to ML](www.notebooklinks.com)
-	- [Linear Algebra Review](https://github.com/cobanov/zemin_istanbul/blob/master/Linear_Algebra.ipynb)
-	- [Probabitlity Review](https://github.com/cobanov/zemin_istanbul/blob/master/Probability_Review.ipynb)
+[Introduction to ML](www.notebooklinks.com)
+
+[Linear Algebra Review](https://github.com/cobanov/zemin_istanbul/blob/master/Linear_Algebra.ipynb)
+
+[Probabitlity Review](https://github.com/cobanov/zemin_istanbul/blob/master/Probability_Review.ipynb)
 	
 ## Day 2:
 	- Linear Regression 
