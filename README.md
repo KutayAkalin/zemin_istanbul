@@ -1,11 +1,11 @@
+# Global AI Hub
+
 # Zemin İstanbul
 
-
-# Linklerin eklenmesi gerekiyor.
 ## Day 1:
-- [ ] [Introduction to ML](www.notebooklinks.com)
-- [ ] [Linear Algebra Review](https://github.com/cobanov/zemin_istanbul/blob/master/Linear_Algebra.ipynb)
-- [ ] [Probabitlity Review](https://github.com/cobanov/zemin_istanbul/blob/master/Probability_Review.ipynb)
+- [x] [Introduction to ML - Sunum eklenmeyecek.]()
+- [x] [Linear Algebra Review](https://github.com/cobanov/zemin_istanbul/blob/master/Linear_Algebra.ipynb)
+- [x] [Probabitlity Review](https://github.com/cobanov/zemin_istanbul/blob/master/Probability_Review.ipynb)
 	
 ## Day 2:
 - [ ] Linear Regression 
