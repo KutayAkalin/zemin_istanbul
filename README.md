@@ -16,7 +16,7 @@
 
 ## Day 3:
 
-- [ ] [Logistic Regression](https://github.com/cobanov/zemin_istanbul/blob/master/logistic_regression.ipynb)
+- [x] [Logistic Regression](https://github.com/cobanov/zemin_istanbul/blob/master/logistic_regression.ipynb)
 - [ ] [Regularization](https://github.com/cobanov/zemin_istanbul/blob/master/regularization.ipynb)
 
 ## Day 4:
