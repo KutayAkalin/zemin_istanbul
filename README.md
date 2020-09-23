@@ -8,16 +8,16 @@
 
 - [x] Introduction to ML
 - [x] [Linear Algebra Review](https://github.com/cobanov/zemin_istanbul/blob/master/Linear_Algebra.ipynb)
-- [x] [Probabitlity Review](https://github.com/cobanov/zemin_istanbul/blob/master/Probability_Review.ipynb)
+- [x] [Probabitlity Review](https://github.com/cobanov/zemin_istanbul/blob/master/probability.ipynb)
 
 ## Day 2:
 
-- [x] Linear Regression
+- [x] [Linear Regression](https://github.com/cobanov/zemin_istanbul/blob/master/linear_regression.ipynb)
 
 ## Day 3:
 
-- [ ] Logistic Regression
-- [ ] Regularization
+- [ ] [Logistic Regression](https://github.com/cobanov/zemin_istanbul/blob/master/logistic_regression.ipynb)
+- [ ] [Regularization](https://github.com/cobanov/zemin_istanbul/blob/master/regularization.ipynb)
 
 ## Day 4:
 
