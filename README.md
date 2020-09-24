@@ -16,16 +16,13 @@
 
 ## Day 3:
 
-- [ ] [Logistic Regression](https://github.com/cobanov/zemin_istanbul/blob/master/logistic_regression.ipynb)
-- [ ] [Regularization](https://github.com/cobanov/zemin_istanbul/blob/master/regularization.ipynb)
+- [x] [Logistic Regression](https://github.com/cobanov/zemin_istanbul/blob/master/logistic_regression.ipynb)
+- [x] [Regularization](https://github.com/cobanov/zemin_istanbul/blob/master/regularization.ipynb)
 
 ## Day 4:
 
-- [ ] Naive Bayes
-- [ ] Decision Trees
+- [ ] [Decision Trees](https://github.com/cobanov/zemin_istanbul/blob/master/decision_trees.ipynb)
 
 ## Day 5:
 
-- [ ] Random forests
-- [ ] XGBoosts
 - [ ] Unsupervised Learning
