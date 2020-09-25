@@ -21,8 +21,8 @@
 
 ## Day 4:
 
-- [ ] [Decision Trees](https://github.com/cobanov/zemin_istanbul/blob/master/decision_trees.ipynb)
+- [x] [Decision Trees](https://github.com/cobanov/zemin_istanbul/blob/master/decision_trees.ipynb)
 
 ## Day 5:
 
-- [ ] Unsupervised Learning
+- [] [Unsupervised Learning](https://github.com/cobanov/zemin_istanbul/blob/master/unsupervised_learning.ipynb)
