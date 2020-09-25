@@ -25,4 +25,4 @@
 
 ## Day 5:
 
-- [] [Unsupervised Learning](https://github.com/cobanov/zemin_istanbul/blob/master/unsupervised_learning.ipynb)
+- [ ] [Unsupervised Learning](https://github.com/cobanov/zemin_istanbul/blob/master/unsupervised_learning.ipynb)
